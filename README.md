@@ -1,16 +1,19 @@
-## Hi there 👋
+# Lucas Schleuss
 
-<!--
-**lucas56098/lucas56098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about computational fluid dynamics (CFD) and discontinuous Galerkin (DG) methods, particularly in the context of hydrodynamics for astro-cosmological galaxy formation simulations.
 
-Here are some ideas to get you started:
+## Research Interests:
+- **Finite Volume (FV) Methods**
+- **Discontinuous Galerkin (DG) Methods**
+- **Hydrodynamics in Astro-Cosmological Simulations**
+- **Galaxy Formation Modeling**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Here are some of the key projects I've worked on:
+
+- **Project 1:** [Link to project 1]
+- **Project 2:** [Link to project 2]
+- **Project 3:** [Link to project 3]
+
+## Contact
+Feel free to reach out via [your email] or open an issue on any of my repositories!
