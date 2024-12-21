@@ -1,5 +1,4 @@
-### Hey there! Welcome to my Github page!
-![HydroMesh](./image2D.png)
+## Hey there! Welcome to my Github page!
 
 I'm Lucas Schleuß, a Physics student at Heidelberg University with a focus on computational Astrophysics.
 
