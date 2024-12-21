@@ -1,6 +1,5 @@
-# Lucas Schleuss
-
-Welcome to my GitHub profile! I'm passionate about computational fluid dynamics (CFD) and discontinuous Galerkin (DG) methods, particularly in the context of hydrodynamics for astro-cosmological galaxy formation simulations.
+## Hey and welcome to my Github profile!
+I am currently studying Physics with a focus on computational Astrophysics at Heidelberg University
 
 ## Research Interests:
 - **Finite Volume (FV) Methods**
