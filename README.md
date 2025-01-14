@@ -1,8 +1,8 @@
 ## Hey there! Welcome to my Github page!
 
-I'm Lucas Schleuß, a Physics student at Heidelberg University with a focus on computational Astrophysics.
+I'm Lucas Schleuß, a physics student at Heidelberg University with a focus on computational astrophysics.
 
-My main passion is developing **numerical methods** for solving the **hydrodynamic equations** to model gas flows as in galaxy formation. For that I have been working on Finite Volume and Discontinuous Galerkin methods on unstructured meshes. In addition to that I am interested in computational geometry and worked on Voronoi mesh generation algorithms. 
+My main passion is developing **numerical methods** for solving the **hydrodynamic equations** to model gas flows as in galaxy formation. For that I have been working on finite volume and discontinuous Galerkin methods on unstructured meshes. In addition to that I am interested in computational geometry and Voronoi mesh generation algorithms. 
 
 Anything related to numerics, high-performance computing, and scientific simulations sparks my curiosity and drives my work.
 
