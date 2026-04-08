@@ -1,7 +1,5 @@
-# Hey there! Welcome to my Github page!
+# Welcome to my GitHub!
 
-I'm Lucas Schleuß, a physics student at Heidelberg University specializing in computational galaxy formation. There, I have worked on **numerical methods** for solving the **hydrodynamic equations** as well as Voronoi mesh generation algorithms and am currently doing my master thesis under Dylan Nelson. I also was a visiting student at ITC/CfA Harvard Smithsonian where I did coding for the moment-based radiative transfer module in AREPO2.
-
-Anything related to numerics, high-performance computing, gpu acceleration and scientific simulations sparks my curiosity and drives my work.
+I'm Lucas Schleuß, a physics student at Heidelberg University specializing in computational galaxy formation. As part of my master's thesis with [Dylan Nelson](https://github.com/dnelson), I am currently developing a **moving Voronoi mesh hydrodynamics** code for exascale **GPU-accelerated** computing on NVIDIA's GH200 superchips. Previously I worked on AREPO's moment-based radiative transfer module, Voronoi mesh generation algorithms, and various finite volume and discontinuous Galerkin hydrodynamics schemes.
 
 Feel free to take a look at my projects or [reach out](mailto:lucas.schleuss@stud.uni-heidelberg.de) if you'd like to connect.
